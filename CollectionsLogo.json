@@ -4,12 +4,11 @@
   "icons": [
     {
       "name": "Crunchyroll",
-      "url": "https://github.com/Tsarinkov/CollectionsLogo/blob/main/6136264df5966900044cbf71.png"
+      "url": "https://raw.githubusercontent.com/Tsarinkov/CollectionsLogo/main/6136264df5966900044cbf71.png"
     },
     {
       "name": "Netflix Black",
-      "url": "https://github.com/Tsarinkov/CollectionsLogo/blob/main/netflix-2.png"
+      "url": "https://raw.githubusercontent.com/Tsarinkov/CollectionsLogo/main/netflix-2.png"
     }
-    // tu ajoutes les autres ici
   ]
 }
