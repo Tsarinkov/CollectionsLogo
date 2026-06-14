@@ -22,7 +22,14 @@
       "name": "Canal+",
       "url":  "https://raw.githubusercontent.com/Tsarinkov/CollectionsLogo/refs/heads/main/canal-1.svg"
     },
-    { "name": "Netflix rouge"
-      "url":
+    { "name": "Netflix rouge",
+      "url": "https://raw.githubusercontent.com/Tsarinkov/CollectionsLogo/refs/heads/main/netflix-3.svg"
+    },
+    { "name": "Paramount+",
+      "url": "https://raw.githubusercontent.com/Tsarinkov/CollectionsLogo/refs/heads/main/paramount-plus-logo-2.svg"
+    },
+    {
+      "name": "PrimeVidéo",
+      "url":"https://raw.githubusercontent.com/Tsarinkov/CollectionsLogo/refs/heads/main/amazon-prime-video-1.svg"
   ]
 }
