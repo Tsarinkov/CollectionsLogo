@@ -1,1 +1,15 @@
-
+{
+  "name": "Ma Bibliothèque Logos",
+  "description": "Logos streaming & services",
+  "icons": [
+    {
+      "name": "Crunchyroll",
+      "url": "https://raw.githubusercontent.com/Tsarinkov/CollectionsLogo/main/crunchyroll.png"
+    },
+    {
+      "name": "Netflix",
+      "url": "https://raw.githubusercontent.com/Tsarinkov/CollectionsLogo/main/netflix.png"
+    }
+    // tu ajoutes les autres ici
+  ]
+}
