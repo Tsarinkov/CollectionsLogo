@@ -42,14 +42,23 @@
     },
     { 
       "name": "FX",
-      "url":
+      "url":  "https://raw.githubusercontent.com/Tsarinkov/CollectionsLogo/main/FX.png"
     },
     {
       "name": "SYFY",
-      "url":
+      "url":  "https://raw.githubusercontent.com/Tsarinkov/CollectionsLogo/main/SYFY.png"
     },
-    { "name": "Columbia",
-      "url":
+    { 
+      "name": "Columbia Pictures",
+      "url":  "https://raw.githubusercontent.com/Tsarinkov/CollectionsLogo/main/Columbia.png"
+    },
+    {
+      "name": "peacock",
+      "url": "https://raw.githubusercontent.com/Tsarinkov/CollectionsLogo/main/61068766f172fd0004f71b60.png"
+    },
+    {
+      "name": "ShowTime",
+      "url": "https://raw.githubusercontent.com/Tsarinkov/CollectionsLogo/main/showtime-seeklogo.png"
     } 
   ]
 }
