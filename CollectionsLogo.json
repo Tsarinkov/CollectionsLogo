@@ -39,6 +39,17 @@
     {
       "name": "Disney+",
       "url": "https://raw.githubusercontent.com/Tsarinkov/CollectionsLogo/main/disney-1.png"
-    }  
+    },
+    { 
+      "name": "FX",
+      "url":
+    },
+    {
+      "name": "SYFY,
+      "url":
+    },
+    { "name": "Columbia",
+      "url":
+    } 
   ]
 }
