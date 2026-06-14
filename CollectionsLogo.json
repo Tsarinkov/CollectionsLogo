@@ -31,5 +31,14 @@
     {
       "name": "PrimeVidéo",
       "url":"https://raw.githubusercontent.com/Tsarinkov/CollectionsLogo/refs/heads/main/amazon-prime-video-1.svg"
+    },
+    {
+      "name": "AppleTV+",
+      "url": "https://raw.githubusercontent.com/Tsarinkov/CollectionsLogo/refs/heads/main/apple-tv-plus-logo.svg"
+    },
+    {
+      "name": "Disney+",
+      "url": "https://raw.githubusercontent.com/Tsarinkov/CollectionsLogo/refs/heads/main/disney--1.svg"
+    }  
   ]
 }
