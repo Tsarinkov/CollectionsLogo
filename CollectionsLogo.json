@@ -20,25 +20,25 @@
     },
     {
       "name": "Canal+",
-      "url":  "https://raw.githubusercontent.com/Tsarinkov/CollectionsLogo/refs/heads/main/canal-1.svg"
+      "url":  "https://raw.githubusercontent.com/Tsarinkov/CollectionsLogo/main/canal-1.png"
     },
     { "name": "Netflix rouge",
-      "url": "https://raw.githubusercontent.com/Tsarinkov/CollectionsLogo/refs/heads/main/netflix-3.svg"
+      "url": "https://raw.githubusercontent.com/Tsarinkov/CollectionsLogo/main/netflix-3.png"
     },
     { "name": "Paramount+",
       "url": "https://raw.githubusercontent.com/Tsarinkov/CollectionsLogo/refs/heads/main/paramount-plus-logo-2.svg"
     },
     {
       "name": "PrimeVidéo",
-      "url":"https://raw.githubusercontent.com/Tsarinkov/CollectionsLogo/refs/heads/main/amazon-prime-video-1.svg"
+      "url":"https://raw.githubusercontent.com/Tsarinkov/CollectionsLogo/main/amazon-prime-video-1.png"
     },
     {
       "name": "AppleTV+",
-      "url": "https://raw.githubusercontent.com/Tsarinkov/CollectionsLogo/refs/heads/main/apple-tv-plus-logo.svg"
+      "url": "https://raw.githubusercontent.com/Tsarinkov/CollectionsLogo/main/apple-tv-plus-logo.png"
     },
     {
       "name": "Disney+",
-      "url": "https://raw.githubusercontent.com/Tsarinkov/CollectionsLogo/refs/heads/main/disney--1.svg"
+      "url": "https://raw.githubusercontent.com/Tsarinkov/CollectionsLogo/main/disney-1.png"
     }  
   ]
 }
